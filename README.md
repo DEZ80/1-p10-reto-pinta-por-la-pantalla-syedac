@@ -13,7 +13,7 @@ PC: 4000
 ## Actividad 2: Tres píxeles debajo de 3 letras
 Los píxeles deben ser de 3 colores distintos y no estar en la primera fila de pantalla.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 C7 C0 3E 80 32 C9 C0 3E 02 32 CA C0 18 FE
 ```
 PC: 4000
 
